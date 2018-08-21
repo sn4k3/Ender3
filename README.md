@@ -1,5 +1,8 @@
 # Ender3
-Supercharge your Ender3 with Guides, Mods and Addons
+Supercharge your Ender3 with Guides, Mods and Addons.
+Make your Ender3 work and worth like high end machines.
+
+**Note:** I have spend many hours trying put this together so you can supercharge your Ender-3 for "Free", if my work is important to you or you fell this worth a tip i'm open to donations: https://www.paypal.me/SkillTournament
 
 ## 1. Slic3rPE
 
