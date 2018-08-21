@@ -36,6 +36,7 @@ Modify at your needs.
 **Note:** Somes parts can override others! Study first what you want or need to buy.
 
 * V6+Volcano 1.75mm 24V: https://www.aliexpress.com/store/product/Trianglelab-v6-Volcano-hotend-12V-24V-remote-Bowen-print-J-head-Hotend-and-cooling-fan-bracket/1654223_32844080369.html
+* Volcano Nozzles (1.75 Full Size Kit): https://www.aliexpress.com/store/product/trianglelab-Top-quality-V6-volcano-Nozzle-for-3D-printers-hotend-5pcs-lot-volcano-upgrade-kit-for/1654223_32839344108.html
 * Volcano Sock: https://www.aliexpress.com/item/Funssor-1pcs-Volcano-Heater-Block-Silicone-Socks-PT100-cartridge-Type-Silicone-Insulation-Sock-SILICONE-HEATER-BLOCK/32841090475.html
 * Extruder gear: https://www.aliexpress.com/store/product/trianglelab-Drivegear-kit-dual-drive-gear-extruder-kit-Cloned-Btech-upgrade-for-Prusa-i3-3d-printer/1654223_32904209624.html
 * MK8 Metal Extruder: https://www.aliexpress.com/item/Upgrade-3D-Printer-Parts-MK8-Extruder-Aluminum-Alloy-Block-bowden-extruder-1-75mm-Filament-for-creality/32834380573.html
