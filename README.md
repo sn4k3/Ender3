@@ -9,7 +9,7 @@ Make sure you have a good leveled printer and bed.
 
 Modify at your needs.
 
-### 1.1 Instalation
+### 1.1. Instalation
 1. Download Slic3rPE from: https://github.com/prusa3d/Slic3r/releases
 2. Start and configure Slic3rPE (Wizard)
 3. Close Slic3rPE
@@ -19,12 +19,12 @@ Modify at your needs.
 
 ## 2. Hardware
 
-### 2.1 Best parts store:
+### 2.1. Best parts store:
 
 * **Trianglelab:** https://trianglelab.aliexpress.com/store/1654223
 * **Funssor:** https://www.aliexpress.com/store/115344
 
-### 2.2 Recommended Hardware:
+### 2.2. Recommended Hardware:
 
 * V6+Volcano 1.75mm 24V: https://www.aliexpress.com/store/product/Trianglelab-v6-Volcano-hotend-12V-24V-remote-Bowen-print-J-head-Hotend-and-cooling-fan-bracket/1654223_32844080369.html
 * Volcano Sock: https://www.aliexpress.com/item/Funssor-1pcs-Volcano-Heater-Block-Silicone-Socks-PT100-cartridge-Type-Silicone-Insulation-Sock-SILICONE-HEATER-BLOCK/32841090475.html
