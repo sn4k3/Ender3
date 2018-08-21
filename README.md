@@ -33,12 +33,16 @@ Modify at your needs.
 
 ### 2.2. Recommended Hardware:
 
+**Note:** Somes parts can override others! Study first what you want or need to buy.
+
 * V6+Volcano 1.75mm 24V: https://www.aliexpress.com/store/product/Trianglelab-v6-Volcano-hotend-12V-24V-remote-Bowen-print-J-head-Hotend-and-cooling-fan-bracket/1654223_32844080369.html
 * Volcano Sock: https://www.aliexpress.com/item/Funssor-1pcs-Volcano-Heater-Block-Silicone-Socks-PT100-cartridge-Type-Silicone-Insulation-Sock-SILICONE-HEATER-BLOCK/32841090475.html
 * Extruder gear: https://www.aliexpress.com/store/product/trianglelab-Drivegear-kit-dual-drive-gear-extruder-kit-Cloned-Btech-upgrade-for-Prusa-i3-3d-printer/1654223_32904209624.html
+* MK8 Metal Extruder: https://www.aliexpress.com/item/Upgrade-3D-Printer-Parts-MK8-Extruder-Aluminum-Alloy-Block-bowden-extruder-1-75mm-Filament-for-creality/32834380573.html
 * 3D Touch: https://www.aliexpress.com/store/product/Trianglelab-2018-NEW-3D-Printer-3D-TOUCH-SENSOR-Free-Shipping-Auto-BED-Leveling-Sensor-for-anet/1654223_32840691571.html
 * TL Smoother Plus: https://www.aliexpress.com/store/product/Trianglelab-4-pieces-pack-TL-smoother-PLUS-addon-module-for-3D-pinter-motor-drivers-motor-Driver/1654223_32841473812.html
 * NEMA 17 Dampers: https://www.aliexpress.com/item/Funssor-12pcs-lot-NEMA-17-Steel-Rubber-Stepper-Motor-Vibration-Dampers-Imported-genuine-42-stepper-motor/32825669027.html
+* Official Glass Bed Surface: https://www.aliexpress.com/item/Newest-Creality-3D-Printer-Ender-3-Black-Carbon-Silicon-Crystal-Glass-Platform-Build-Hotbed-Glass-Platform/32890715441.html
 * Bed Springs (4x): https://www.aliexpress.com/item/4-pcs-CREALITY-3D-Printer-Parts-Spring-For-Heated-bed-CR-10-CR-10Mini-CR-10S/32864621140.html
 * Bed Isolator (300x300): https://www.aliexpress.com/item/3D-Printer-Part-Heated-Bed-Thermal-Insulator-Cotton-Heat-Insulation-Mat-for-Heatbed-Aluminum-Pad-PCB/32879628172.html
 * 5015 24v Fan: https://www.aliexpress.com/item/2PCS-Gdstime-2-Pin-Ball-Bearing-DC-24V-Brushless-Cooling-Turbine-Blower-Fan-5015/32841967974.html
