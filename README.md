@@ -20,10 +20,12 @@ Modify at your needs.
 ## Hardware
 
 Best clone parts store:
+
 *Trianglelab:* https://trianglelab.aliexpress.com/store/1654223
 *Funssor:* https://www.aliexpress.com/store/115344
 
 Recommended Hardware:
+
 * V6+Volcano 1.75mm 24V: https://www.aliexpress.com/store/product/Trianglelab-v6-Volcano-hotend-12V-24V-remote-Bowen-print-J-head-Hotend-and-cooling-fan-bracket/1654223_32844080369.html
 * Volcano Sock: https://www.aliexpress.com/item/Funssor-1pcs-Volcano-Heater-Block-Silicone-Socks-PT100-cartridge-Type-Silicone-Insulation-Sock-SILICONE-HEATER-BLOCK/32841090475.html
 * 3D Touch: https://www.aliexpress.com/store/product/Trianglelab-2018-NEW-3D-Printer-3D-TOUCH-SENSOR-Free-Shipping-Auto-BED-Leveling-Sensor-for-anet/1654223_32840691571.html
@@ -35,4 +37,4 @@ Recommended Hardware:
 * Fan speed controler: https://www.aliexpress.com/item/10pcs-lot-PWM-DC-6V-12V-24V-28V-3A-Motor-Speed-Control-New-Switch-Controller-1203B/32714571858.html
 * Bed Isolator (300x300): https://www.aliexpress.com/item/3D-Printer-Part-Heated-Bed-Thermal-Insulator-Cotton-Heat-Insulation-Mat-for-Heatbed-Aluminum-Pad-PCB/32879628172.html
 * Extreme v wheels (16x): https://www.aliexpress.com/item/High-precision-CNC-clear-Polycarbonate-Xtreme-v-wheel-kits-for-Openbuilds-v-slot-linear-rail-system/32849105844.html
-* Raspberry Pi 3+ with Octoprint
+* Raspberry Pi 3+ with Octoprint and PiCamera
