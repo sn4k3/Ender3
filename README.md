@@ -21,8 +21,8 @@ Modify at your needs.
 
 Best clone parts store:
 
-*Trianglelab:* https://trianglelab.aliexpress.com/store/1654223
-*Funssor:* https://www.aliexpress.com/store/115344
+* **Trianglelab:** https://trianglelab.aliexpress.com/store/1654223
+* **Funssor:** https://www.aliexpress.com/store/115344
 
 Recommended Hardware:
 
