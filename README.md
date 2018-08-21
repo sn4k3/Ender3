@@ -4,6 +4,10 @@ Make your Ender3 work and worth like high end machines.
 
 **Note:** I have spend many hours trying put this together so you can supercharge your Ender-3 for "Free", if my work is important to you or you fell this worth a tip i'm open to donations: https://www.paypal.me/SkillTournament
 
+Discussion Groups:
+* https://www.facebook.com/groups/Ender3/
+
+
 ## 1. Slic3rPE
 
 These profiles are based on a quality/speed balance (Universal).
@@ -41,4 +45,5 @@ Modify at your needs.
 * 4010 24v Fan: https://www.aliexpress.com/item/2Pcs-DC-24V-40mm-x-40mm-x-10mm-2-Pin-Ball-Bearing-Computer-PC-Case-Silent/32727867521.html
 * Fan speed controler: https://www.aliexpress.com/item/10pcs-lot-PWM-DC-6V-12V-24V-28V-3A-Motor-Speed-Control-New-Switch-Controller-1203B/32714571858.html
 * Extreme v wheels (16x): https://www.aliexpress.com/item/High-precision-CNC-clear-Polycarbonate-Xtreme-v-wheel-kits-for-Openbuilds-v-slot-linear-rail-system/32849105844.html
+* Arduino Uno for Stock motherboard bootloader burn: https://www.aliexpress.com/item/high-quality-One-set-UNO-R3-CH340G-MEGA328P-for-Arduino-UNO-R3-NO-USB-CABLE/32697443734.html
 * Raspberry Pi 3+ with Octoprint and PiCamera
