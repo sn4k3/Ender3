@@ -51,5 +51,6 @@ Modify at your needs.
 * Fan speed controler: https://www.aliexpress.com/item/10pcs-lot-PWM-DC-6V-12V-24V-28V-3A-Motor-Speed-Control-New-Switch-Controller-1203B/32714571858.html
 * Extreme v wheels (16x): https://www.aliexpress.com/item/High-precision-CNC-clear-Polycarbonate-Xtreme-v-wheel-kits-for-Openbuilds-v-slot-linear-rail-system/32849105844.html
 * Belt Tensioner: https://www.aliexpress.com/store/product/Funssor-upgrade-Aluminum-alloy-Tornado-CR-10S-X-Axis-Tensioner-kit-For-Creality-cr-10-Ender/115344_32882354827.html
+* XT30 Connectors: https://www.aliexpress.com/item/10pcs-Amass-XT30-Male-Female-Bullet-Connector-Plug-For-RC-FPV-Lipo-Battery-RC-Quadcopter-5/32784217001.html
 * Arduino Uno for Stock motherboard bootloader burn: https://www.aliexpress.com/item/high-quality-One-set-UNO-R3-CH340G-MEGA328P-for-Arduino-UNO-R3-NO-USB-CABLE/32697443734.html
 * Raspberry Pi 3+ with Octoprint and PiCamera
