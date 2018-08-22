@@ -54,3 +54,10 @@ Modify at your needs.
 * XT30 Connectors: https://www.aliexpress.com/item/10pcs-Amass-XT30-Male-Female-Bullet-Connector-Plug-For-RC-FPV-Lipo-Battery-RC-Quadcopter-5/32784217001.html
 * Arduino Uno for Stock motherboard bootloader burn: https://www.aliexpress.com/item/high-quality-One-set-UNO-R3-CH340G-MEGA328P-for-Arduino-UNO-R3-NO-USB-CABLE/32697443734.html
 * Raspberry Pi 3+ with Octoprint and PiCamera
+
+## 3. Printed Parts
+
+### 3.1. Colections
+
+* **sn4k3** https://www.thingiverse.com/sn4k3/collections/creality-ender-3
+* **Nerys** https://www.thingiverse.com/Nerys/collections/ender-3
