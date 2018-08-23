@@ -41,6 +41,7 @@ Modify at your needs.
 * Extruder gear: https://www.aliexpress.com/store/product/trianglelab-Drivegear-kit-dual-drive-gear-extruder-kit-Cloned-Btech-upgrade-for-Prusa-i3-3d-printer/1654223_32904209624.html
 * MK8 Metal Extruder: https://www.aliexpress.com/item/Upgrade-3D-Printer-Parts-MK8-Extruder-Aluminum-Alloy-Block-bowden-extruder-1-75mm-Filament-for-creality/32834380573.html
 * 3D Touch: https://www.aliexpress.com/store/product/Trianglelab-2018-NEW-3D-Printer-3D-TOUCH-SENSOR-Free-Shipping-Auto-BED-Leveling-Sensor-for-anet/1654223_32840691571.html
+* BLTouch board adaptor: https://www.ebay.co.uk/itm/CR-10-Ender-3-Pin-27-Board-for-BL-Touch-Autobed-Levelling-or-filament-sensor/173475394925?hash=item2863f0756d:g:rpkAAOSwzXxaHscB
 * TL Smoother Plus: https://www.aliexpress.com/store/product/Trianglelab-4-pieces-pack-TL-smoother-PLUS-addon-module-for-3D-pinter-motor-drivers-motor-Driver/1654223_32841473812.html
 * NEMA 17 Dampers: https://www.aliexpress.com/item/Funssor-12pcs-lot-NEMA-17-Steel-Rubber-Stepper-Motor-Vibration-Dampers-Imported-genuine-42-stepper-motor/32825669027.html
 * Official Glass Bed Surface: https://www.aliexpress.com/item/Newest-Creality-3D-Printer-Ender-3-Black-Carbon-Silicon-Crystal-Glass-Platform-Build-Hotbed-Glass-Platform/32890715441.html
