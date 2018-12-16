@@ -38,6 +38,7 @@ Modify at your needs.
 
 **Note:** Somes parts can override others! Study first what you want or need to buy.
 
+* Cloned Bondtech BMG extruder for direct drive or better bowden: https://www.aliexpress.com/store/product/trianglelab-Bowden-Extruder-BMG-extruder-Cloned-Btech-Dual-Drive-Extruder-for-3d-printer-High-performance-for/1654223_32917029058.html
 * V6+Volcano 1.75mm 24V: https://www.aliexpress.com/store/product/Trianglelab-v6-Volcano-hotend-12V-24V-remote-Bowen-print-J-head-Hotend-and-cooling-fan-bracket/1654223_32844080369.html
 * Volcano Nozzles (1.75 Full Size Kit): https://www.aliexpress.com/store/product/trianglelab-Top-quality-V6-volcano-Nozzle-for-3D-printers-hotend-5pcs-lot-volcano-upgrade-kit-for/1654223_32839344108.html
 * Volcano Sock: https://www.aliexpress.com/item/Funssor-1pcs-Volcano-Heater-Block-Silicone-Socks-PT100-cartridge-Type-Silicone-Insulation-Sock-SILICONE-HEATER-BLOCK/32841090475.html
