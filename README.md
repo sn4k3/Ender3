@@ -22,7 +22,10 @@ Modify at your needs.
 3. Close Slic3rPE
 4. Open "%AppData%\Slic3rPE\", if not exists try: "C:\Users\Public\Documents\Prusa3D\Slic3r settings xxxx",
 5. Copy GitHub Slic3rPE subfolders ("printer", "filament", "print") to the folder above
-6. Done
+7. Open Slic3rPE and check if profiles are there
+8. To clean up interface remove profiles that you will not use: Printers you will not use (OPTIONAL)
+9. Go under printer and use your current values for your printer, like max Z, limits, start gcodes or other things you may need to tune
+10. Do a simple test print
 
 ## 2. Hardware
 
