@@ -21,7 +21,7 @@ Modify at your needs.
 2. Start and configure Slic3rPE (Wizard)
 3. Close Slic3rPE
 4. Windows: Open "%AppData%\Slic3rPE\", if not exists try: "C:\Users\Public\Documents\Prusa3D\Slic3r settings xxxx"
-4a. Mac: Open "/Users/[Username]/Library/Application Support/Slic3rPE"
+4. Mac: Open "/Users/[Username]/Library/Application Support/Slic3rPE"
 5. Copy GitHub Slic3rPE subfolders ("printer", "filament", "print") to the folder above
 7. Open Slic3rPE and check if profiles are there
 8. To clean up interface remove profiles that you will not use: Printers you will not use (OPTIONAL)
