@@ -13,6 +13,7 @@ Discussion Groups:
 These profiles are based on a quality/speed balance (Universal).
 Good prints without sacrifice the speed.
 Make sure you have a good leveled printer and bed.
+**NOTE:** Fine tune the start gcode for your printer! This is very important since i can't provide a all case profile for every modification and printer.
 
 Modify at your needs.
 
