@@ -8,7 +8,7 @@ Discussion Groups:
 * https://www.facebook.com/groups/Ender3/
 
 
-## 1. Slic3rPE
+## 1. PrusaSlicer
 
 These profiles are based on a quality/speed balance (Universal).
 Good prints without sacrifice the speed.
@@ -19,17 +19,17 @@ Make sure you have a good leveled printer and bed.
 Modify at your needs.
 
 ### 1.1. Instalation
-1. Download Slic3rPE from: https://github.com/prusa3d/Slic3r/releases
-2. Start and configure Slic3rPE (Wizard)
-3. Close Slic3rPE
+1. Download PrusaSlicer from: https://github.com/prusa3d/Slic3r/releases
+2. Start and configure PrusaSlicer (Wizard)
+3. Close PrusaSlicer
 4. On different operating systems open:
-   * Windows: "%AppData%\Slic3rPE\", if not exists try: "C:\Users\Public\Documents\Prusa3D\Slic3r settings xxxx"
-   * Mac: "/Users/[Username]/Library/Application Support/Slic3rPE"
+   * Windows: "%AppData%\PrusaSlicer\", if not exists try: "C:\Users\Public\Documents\Prusa3D\Slic3r settings xxxx"
+   * Mac: "/Users/[Username]/Library/Application Support/PrusaSlicer"
    * Linux: 
-      * Stable build: "~/.Slic3rPE/"
-      * Alpha build: "~/.Slic3rPE-alpha/"
-5. Copy GitHub Slic3rPE subfolders ("printer", "filament", "print") to the folder above
-7. Open Slic3rPE and check if profiles are there
+      * Stable build: "~/.PrusaSlicer/"
+      * Alpha build: "~/.PrusaSlicer-alpha/"
+5. Copy GitHub PrusaSlicer subfolders ("printer", "filament", "print") to the folder above
+7. Open PrusaSlicer and check if profiles are there
 8. To clean up interface remove profiles that you will not use: Printers you will not use (OPTIONAL)
 9. Go under printer and use your current values for your printer, like max Z, limits, start gcodes or other things you may need to tune
 10. Do a simple test print
