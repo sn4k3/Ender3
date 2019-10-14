@@ -34,6 +34,10 @@ Modify at your needs.
 9. Go under printer and use your current values for your printer, like max Z, limits, start gcodes or other things you may need to tune
 10. Do a simple test print
 
+### 1.2. Ender3 Bed into slicer
+
+**To add Ender3 bed to slicer preview copy "ender3_bed.stl" to instalation directory, often at "C:\Program Files\Prusa3D\PrusaSlicer"**
+
 ## 2. Hardware
 
 ### 2.1. Best parts store:
