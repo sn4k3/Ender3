@@ -37,6 +37,7 @@ Modify at your needs.
 ### 1.2. Ender3 Bed into slicer
 
 1. To add Ender3 bed to slicer preview copy "ender3_bed.stl" to instalation directory, often at "C:\Program Files\Prusa3D\PrusaSlicer"
+Taken from: https://www.thingiverse.com/thing:3873312
 
 ## 2. Hardware
 
