@@ -19,7 +19,7 @@ Make sure you have a good leveled printer and bed.
 Modify at your needs.
 
 ### 1.1. Instalation
-1. Download PrusaSlicer from: https://github.com/prusa3d/Slic3r/releases
+1. Download and install PrusaSlicer from: https://www.prusa3d.com/prusaslicer/
 2. Start and configure PrusaSlicer (Wizard)
 3. Close PrusaSlicer
 4. On different operating systems open:
