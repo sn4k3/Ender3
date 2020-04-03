@@ -21,9 +21,11 @@ Modify at your needs.
 ### 1.1. Instalation
 1. Download and install PrusaSlicer from: https://www.prusa3d.com/prusaslicer/
 2. Start and configure PrusaSlicer (Wizard)
+	* Choose Prusa MK3 and Creality Ender3 printers
+	* Choose the filaments you want to apper (This can be latter done under Filament dropdown and select "Add/Remove Materials")
 3. Close PrusaSlicer
 4. On different operating systems open:
-   * Windows: "%AppData%\PrusaSlicer\", if not exists try: "C:\Users\Public\Documents\Prusa3D\Slic3r settings xxxx"
+   * Windows: "%AppData%\PrusaSlicer\"
    * macOS: "/Users/[Username]/Library/Application Support/PrusaSlicer"
    * Linux: 
       * Stable build: "~/.PrusaSlicer/"
@@ -33,20 +35,6 @@ Modify at your needs.
 8. To clean up interface remove profiles that you will not use: Printers you will not use (OPTIONAL)
 9. Go under printer and use your current values for your printer, like max Z, limits, start gcodes or other things you may need to tune
 10. Do a simple test print
-
-### 1.2. Ender3 Bed model into slicer
-
-1. For the different operating systems:
-    * Windows: Copy "ender3_bed.stl" to instalation directory, often at "C:\Program Files\Prusa3D\PrusaSlicer"
-    * macOS: 
-        1. Copy "ender3_bed.stl" to "/Applications/[User]/[PrusaSlicer-version_number].app/Contents/Resources/models" if you got the software from Homebrew Cask or "/Applications/[User]/Original Prusa Drivers/PrusaSlicer.app/Contents/Resources/models" if you got it from the manufacturer website. You can access the folders inside the .app contents by right clicking the .app file and choosing "Show package contents".
-        2. Start the software and go to the "Printer" tab. Make sure you're viewing the correct profile by choosing it from the dropdown list on the upper left. Then click on "Expert" on the top right corner and after that, click on "Set" next to "Bed Shape· on the first line. In the new window, click the "Load..." button in the "Model" section.
-        3. When the Finder window opens to choose the model file, press "Cmd + shift + G" to open the "Go to the folder" dialog, and type the path used in step one. Then press Enter and choose the model file.
-        4. If you remove the application, you will have to follow these steps again since the model will be removed along with the package.
-		
-"ender3_bed_alt.stl" is cut at bed height to improve the overview from top on slicer, if you want to use this instead, copy to slicer directory and rename it to "ender3_bed.stl".
-
-Taken from: https://www.thingiverse.com/thing:3873312
 
 ## 2. Hardware
 
